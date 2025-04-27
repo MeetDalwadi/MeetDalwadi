@@ -20,6 +20,8 @@
 
 </div> 
 
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=MeetDalwadi&color=blueviolet&style=flat-square)
 ---
 
 # 🛠️ Technical Stack
