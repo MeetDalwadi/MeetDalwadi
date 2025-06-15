@@ -53,22 +53,3 @@
 </p>
 
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-## Profile Overview
-![](https://github-readme-stats.vercel.app/api?username=MeetDalwadi&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&card_width=800)
-
-## Contribution Streak
-![](https://streak-stats.demolab.com/?user=MeetDalwadi&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&card_width=800)
-
-## Language Breakdown
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeetDalwadi&theme=dark&hide_border=false&layout=compact&langs_count=8&card_width=800)
-
-## Achievements
-![](https://github-profile-trophy.vercel.app/?username=MeetDalwadi&theme=radical&no-frame=true&margin-w=5&row=2&column=4)
-
-</div>
