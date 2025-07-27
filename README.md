@@ -4,7 +4,7 @@
 
 **`Computer Engineer | Full-Stack Developer`**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=react&logoColor=white)](https://meetdalwadi.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=react&logoColor=white)](https://meet-three-black.vercel.app/)
 
 </div>
 
